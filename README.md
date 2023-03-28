@@ -41,12 +41,12 @@ My Skills:
 </ul>
 
 ##
-<ul>
+<div>
   <a href="https://github.com/Gui-henrique-dos-santos">
    <img  width="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Gui-henrique-dos-santos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" /></a>
   <a href="https://github.com/Gui-henrique-dos-santos/convoychat">
    <img  width="250px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui-henrique-dos-santos&theme=great-gatsby&layout=compact&hide_border=true&bg_color=00000000&hide=Makefile,Dart,html,Cmake,Swift&langs_count=8" /></a>
-</ul>
+</div>
 
 <img align="right" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" width="350px">
 
