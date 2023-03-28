@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8BADD9&height=90&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=01403A&height=90&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F2D43D&size=30&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Guilherme+Santos;I'm+22+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -44,7 +44,7 @@ My Skills:
 <ul>
   <a href="https://github.com/Gui-henrique-dos-santos/github-readme-stats">
    <img  width="250px" align="center" src="https://github-readme-stats.vercel.app/api?username=Gui-henrique-dos-santos&show_icons=true&theme=great-gatsby&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000" /></a>
-  <a href="https://github.com/HannaSantos/convoychat">
+  <a href="https://github.com/Gui-henrique-dos-santos/convoychat">
    <img  width="250px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui-henrique-dos-santos&theme=great-gatsby&layout=compact&hide_border=true&bg_color=00000000&hide=Makefile,Dart,html,Cmake,Swift&langs_count=8" /></a>
 </ul>
 
@@ -59,4 +59,4 @@ My Skills:
 
 <br><br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8BADD9&height=90&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=01403A&height=90&section=footer"/>
