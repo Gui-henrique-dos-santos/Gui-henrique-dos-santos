@@ -47,7 +47,7 @@ My Skills:
   <a href="https://github.com/Gui-henrique-dos-santos/convoychat">
    <img  height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui-henrique-dos-santos&layout=compact&langs_count=16&theme=dracula" /></a>
 </div>
-
+<br>
 <img align="right" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" width="350px">
 
 <br><br><br><br>
