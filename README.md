@@ -7,7 +7,7 @@
 <img align="right" src="https://media.giphy.com/media/5AGjSNAAbQAkor4AJF/giphy.gif" width="350px">
 
 <ul align="left">
-   <li> 🌱 Student SPTech School - System analysis and development :mortar_board: 4/4 </li>
+   <li> 🌱 Graduated SPTech School - System analysis and development :mortar_board: 4/4 </li>
    <li> 😄 Pronouns: he/him </li>
 </ul>
 
